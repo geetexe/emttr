@@ -1,0 +1,12 @@
+{
+  "name": "emttr",
+  "version": "1.0.0",
+  "description": "A tiny pub/sub utility in vanilla JavaScript",
+  "type": "module",
+  "main": "./emttr.js",
+  "exports": "./emttr.js",
+  "files": ["emttr.js", "README.md", "LICENSE"],
+  "keywords": ["pubsub", "event-emitter", "events", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
