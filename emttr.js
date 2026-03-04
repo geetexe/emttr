@@ -17,7 +17,7 @@ class Emttr {
 
         return {
             unsubscribe: () => {
-                this.subscribers[event] = this.subscribers[event].filter(cb => cb !== callback);
+                this.subscribers[event] = (this.subscribers[event] || []).filter(cb => cb !== callback);
             }
         };
     }
