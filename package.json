@@ -1,6 +1,6 @@
 {
   "name": "emttr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A tiny pub/sub utility in vanilla JavaScript",
   "type": "module",
   "main": "./emttr.js",
