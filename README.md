@@ -2,9 +2,9 @@
 
 A tiny pub/sub utility in vanilla JavaScript.
 
-![npm](https://img.shields.io/npm/v/emttr)
-![bundle size](https://img.shields.io/badge/gzip-337B-brightgreen)
-![license](https://img.shields.io/npm/l/emttr)
+[![npm](https://img.shields.io/npm/v/emttr)](https://www.npmjs.com/package/emttr)
+[![bundle size](https://img.shields.io/badge/gzip-337B-brightgreen)](https://bundlejs.com/?q=emttr)
+[![license](https://img.shields.io/npm/l/emttr)](./LICENSE)
 
 ## Features
 
